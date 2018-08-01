@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "RJ Zamora / HPC Scientist"
+title                    : "Richard (Rick) Zamora / HPC Scientist"
 title_separator          : "-"
 name                     : &name "Richard J Zamora"
 description              : &description "personal description"
