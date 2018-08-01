@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Richard J Zamora PhD / Computational Scientist"
+title                    : "Richard J Zamora, PhD"
 title_separator          : "-"
 name                     : &name "Richard J Zamora"
 description              : &description "personal description"
@@ -78,12 +78,12 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "RJ Zamora"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "Experienced researcher in computational science and HPC"
+  location         : "Chicago. IL"
   employer         :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=o-BppTIAAAAJ"
   email            :
   uri              :
   bitbucket        :
@@ -92,19 +92,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "rjzamora"
+  gitlab           : "rjzamora"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "https://www.linkedin.com/in/richard-zamora-phd-1b7a1b45/"
+  orcid            : "https://orcid.org/0000-0002-5841-0243?lang=en"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          :
   vine             :
   weibo            :
   xing             :
