@@ -78,9 +78,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Richard J Zamora, PhD"
+  name             : "RJ Zamora, PhD"
   avatar           : "profile.png"
-  bio              : "Experienced researcher in computational science and HPC"
+  bio              : "Experienced researcher in high-performance computing and materials science"
   location         : "Chicago. IL"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=o-BppTIAAAAJ"
