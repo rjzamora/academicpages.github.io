@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About Me"
+title: "About"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -10,11 +10,11 @@ redirect_from:
 
 This is Richard J Zamoras personal web page. Many of my projects can be found under [my GitLab](https://gitlab.com/rjzamora) and [xGitLab](https://xgitlab.com/rzamora) accounts.
 
-Current Research Interests
+Research
 ======
 Blah Blah.
 
-Educational and Professional Background
+Background
 ======
 Blah Blah. Blah
 
