@@ -8,16 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-This is Richard J Zamoras personal web page. Many of my projects can be found under [my GitLab](https://gitlab.com/rjzamora) and [xGitLab](https://xgitlab.com/rzamora) accounts.
+I am currenlty a computer scientist in the ALCF Data-Science Group at Argonne National Laboratory. Much of my past and present research has focused on the developement and optimization of parallel algorithms for high-performance computing and (more recently) data science. My recent/current projects are related to:
 
-Research
-======
-Blah Blah.
+- Parallel I/O Algorithms and Optimization (for Simulation and **Machine Learning**)
+- Software Performance Prediction
+- Accelerated Molecular Dynamics
+- Software Sustainability and Productivity
 
-Background
-======
-Blah Blah. Blah
+Before joining Argonne, I was a postdoctoral researcher (and then staff scientist) in the Theoretical Division at Los Alamos National Laboratory (in the Physics and Chemistry of Materials Group). During my postdoc, I worked under the supervision of Arthur Voter, the pioneer of accelerated molecular dynamics (AMD). Throughout my time at LANL, I had the opportunity to build a unique expertise in the developement of parallel simulation methodologies for high-fidelity materials simulation.
 
-Blah.
-------
-Blah Blah. Blah Blah.
+My Software Repositories: [GitLab](https://gitlab.com/rjzamora) and [xGitLab](https://xgitlab.com/rzamora)
+
+
