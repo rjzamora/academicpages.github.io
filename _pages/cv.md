@@ -14,12 +14,17 @@ Education
 
 Cornell University
 ------
-* Ph.D in Civil Engineering, 2014
-  * Concentrations: 
-  Computational Science & Engineering 
-  Materials Science & Engineering
-* M.S. in Civil Engineering, 2013
-* B.S. in Civil Engineering, 2010
+**Ph.D in Civil Engineering, 2014**
+**Concentrations:**
+- Computational Science & Engineering 
+- Materials Science & Engineering
+
+**M.S. in Civil Engineering, 2013**
+
+**B.S. in Civil Engineering, 2010**
+*Magna Cum Laude*
+Structural Engineering Concentration
+GPA: 3.8 / 4.0
 
 Work experience
 ======
