@@ -11,8 +11,15 @@ redirect_from:
 
 Education
 ======
-* B.S. - Cornell University, 2010
-* M.S/Ph.D - Cornell University, 2014
+
+Cornell University
+------
+* Ph.D in Civil Engineering, 2014
+  * Concentrations: 
+  Computational Science & Engineering 
+  Materials Science & Engineering
+* M.S. in Civil Engineering, 2013
+* B.S. in Civil Engineering, 2010
 
 Work experience
 ======
