@@ -10,7 +10,7 @@ redirect_from:
 
 I am currenlty an assistant computer scientist in the ALCF *Data Science* group at Argonne National Laboratory. My research is focused on the developement and optimization of parallel algorithms for high-performance computing and (more recently) data science. Some topics of particular interest to me include:
 
-- Parallel I/O Algorithms and Optimization (for Simulation and **Machine Learning**)
+- Parallel I/O Algorithms and Optimization (for Simulation and Machine Learning)
 - Software Performance Prediction
 - Accelerated Molecular Dynamics
 - Software Sustainability and Productivity
