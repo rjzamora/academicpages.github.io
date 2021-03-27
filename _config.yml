@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Richard (Rick) Zamora / HPC Scientist"
+title                    : "Richard Zamora, PhD / Senior Systems Software Engineer"
 title_separator          : "-"
 name                     : &name "Richard J Zamora"
 description              : &description "personal description"
@@ -78,11 +78,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "RJ Zamora, PhD"
+  name             : "Richard Zamora, PhD"
   avatar           : "profile.png"
   bio              : "Experienced parallel-computing researcher and software engineer"
-  location         : "Chicago. IL"
-  employer         : "https://www.nvidia.com/en-us/"
+  location         : "Naperville, IL"
+  employer         :
   googlescholar    : "https://scholar.google.com/citations?user=o-BppTIAAAAJ"
   email            : "rzamora@nvidia.com"
   uri              :
@@ -105,7 +105,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "https://twitter.com/_rjzamora"
+  twitter          : "_rjzamora"
   vine             :
   weibo            :
   xing             :
