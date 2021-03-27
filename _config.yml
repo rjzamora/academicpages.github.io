@@ -80,11 +80,11 @@ analytics:
 author:
   name             : "RJ Zamora, PhD"
   avatar           : "profile.png"
-  bio              : "Experienced researcher in high-performance computing and materials science"
+  bio              : "Experienced parallel-computing researcher and software engineer"
   location         : "Chicago. IL"
-  employer         :
+  employer         : "https://www.nvidia.com/en-us/"
   googlescholar    : "https://scholar.google.com/citations?user=o-BppTIAAAAJ"
-  email            : "rzamora@anl.gov"
+  email            : "rzamora@nvidia.com"
   uri              :
   bitbucket        :
   codepen          :
@@ -105,7 +105,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          :
+  twitter          : "https://twitter.com/_rjzamora"
   vine             :
   weibo            :
   xing             :
